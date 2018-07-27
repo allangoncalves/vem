@@ -1,0 +1,17 @@
+exception_name,count,origin
+NotImplementedError,5,sys
+UnexpectedFrameError,3,usr
+InvalidTableError,2,usr
+ProtocolVersionMismatch,2,usr
+ChannelClosed,1,usr
+DuplicateConsumerTag,1,usr
+UnknownConsumerTag,1,usr
+BodyTooLongError,1,usr
+ConnectionClosed,1,usr
+InvalidFrameError,1,usr
+ContentTransmissionForbidden,1,usr
+LoginError,1,usr
+RecursiveOperationDetected,1,usr
+InvalidProtocolHeader,1,usr
+EventHandlerError,1,usr
+NoFreeChannels,1,usr

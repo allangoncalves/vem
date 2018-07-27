@@ -1,0 +1,5 @@
+exception_name,count,origin
+Exception,31,sys
+TypeError,2,sys
+error,1,lib
+IOError,1,sys

@@ -1,0 +1,4 @@
+exception_name,count,origin
+Exception,10,sys
+IndexError,4,sys
+NotImplementedError,2,sys

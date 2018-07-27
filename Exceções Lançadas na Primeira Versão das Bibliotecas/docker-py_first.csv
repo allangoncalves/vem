@@ -1,0 +1,6 @@
+exception_name,count,origin
+Exception,6,sys
+ValueError,2,sys
+NotImplemented,1,lib
+KeyError,1,sys
+e,1,lib

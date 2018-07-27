@@ -1,0 +1,6 @@
+exception_name,count,origin
+NoSuchPathError,2,usr
+NotImplementedError,2,sys
+InvalidGitRepositoryError,1,usr
+ValueError,1,sys
+GitCommandError,1,usr

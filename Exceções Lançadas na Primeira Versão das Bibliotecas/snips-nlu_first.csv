@@ -1,0 +1,9 @@
+exception_name,count,origin
+ValueError,28,sys
+TypeError,10,sys
+KeyError,9,sys
+LookupError,2,sys
+IOError,2,sys
+Exception,2,sys
+AttributeError,1,sys
+RuntimeError,1,sys

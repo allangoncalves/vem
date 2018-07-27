@@ -1,0 +1,12 @@
+exception_name,count,origin
+ValueError,15,sys
+SettingsFileLoadingException,6,usr
+KeyError,4,sys
+AttributeError,2,sys
+IndexError,2,sys
+TypeError,2,sys
+UserWarning,1,sys
+ImportError,1,sys
+BlockingError,1,usr
+ChildProcessError,1,usr
+StopIteration,1,sys

@@ -1,0 +1,13 @@
+exception_name,count,origin
+Exception,89,sys
+ValueError,24,sys
+KeyError,7,sys
+TypeError,6,sys
+SystemExit,4,sys
+PlotError,3,usr
+RuntimeError,3,sys
+NotImplementedError,3,sys
+ImportError,2,sys
+PanelError,2,usr
+AssertionError,1,sys
+SkipNode,1,lib

@@ -1,0 +1,11 @@
+exception_name,count,origin
+AdapterMethodNotImplementedError,13,lib
+HTTPStatusException,4,lib
+EmptyDatabaseException,2,lib
+InvalidAdapterTypeException,2,lib
+UnrecognizedInputFormatException,1,lib
+TrainerInitializationException,1,lib
+ValidationError,1,lib
+EmptyDatasetException,1,lib
+BadZipfile,1,lib
+InvalidTypeException,1,lib

@@ -1,0 +1,9 @@
+exception_name,count,origin
+NotImplementedError,20,sys
+RuntimeError,6,sys
+DataIntegrityException,6,usr
+Exception,4,sys
+ValueError,3,sys
+UnauthorizedException,3,usr
+KeyError,1,sys
+Warning,1,sys

@@ -1,0 +1,17 @@
+exception_name,count,origin
+ValueError,309,sys
+NotImplementedError,17,sys
+RuntimeError,15,sys
+TypeError,12,sys
+ImportError,9,sys
+AttributeError,5,sys
+IOError,4,sys
+ArithmeticError,4,sys
+IndexError,4,sys
+ParseError,4,lib
+Error,3,lib
+StopIteration,3,sys
+GuiLockError,2,usr
+CalledProcessError,2,lib
+Exception,2,sys
+skimage_deprecation,1,usr

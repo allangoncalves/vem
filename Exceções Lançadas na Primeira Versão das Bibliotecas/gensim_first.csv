@@ -1,0 +1,6 @@
+exception_name,count,origin
+ValueError,14,sys
+NotImplementedError,11,sys
+RuntimeError,6,sys
+Exception,2,sys
+ImportError,1,sys

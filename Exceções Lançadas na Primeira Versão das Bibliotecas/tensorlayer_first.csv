@@ -1,0 +1,4 @@
+exception_name,count,origin
+ValueError,20,sys
+Exception,19,sys
+ImportError,1,sys

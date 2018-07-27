@@ -1,0 +1,14 @@
+exception_name,count,origin
+ValueError,38,sys
+NoSuchProcess,21,usr
+AccessDenied,18,usr
+ZombieProcess,10,usr
+RuntimeError,9,sys
+NotImplementedError,8,sys
+TypeError,6,sys
+TimeoutExpired,3,usr
+ImportError,2,sys
+err,2,lib
+AttributeError,1,sys
+fallback,1,lib
+_Ipv6UnsupportedError,1,usr

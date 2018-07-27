@@ -1,0 +1,12 @@
+exception_name,count,origin
+ValueError,54,sys
+DenError,24,usr
+GmParamError,23,usr
+NotImplementedError,10,sys
+RuntimeError,6,sys
+TypeError,4,sys
+GmmParamError,3,usr
+ImportError,2,sys
+OnGmmParamError,2,usr
+DenParam,1,lib
+IndexError,1,sys

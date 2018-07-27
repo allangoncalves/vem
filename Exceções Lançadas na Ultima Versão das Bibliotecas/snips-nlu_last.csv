@@ -1,0 +1,13 @@
+exception_name,count,origin
+ValueError,20,sys
+TypeError,8,sys
+NotImplementedError,7,sys
+NotTrained,6,usr
+INTENT_FORMATTING_ERROR,4,lib
+KeyError,2,sys
+AttributeError,1,sys
+UnknownResource,1,usr
+UnloadedResources,1,usr
+missing_key_error,1,lib
+type_error,1,lib
+AssertionError,1,sys

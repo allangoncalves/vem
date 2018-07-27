@@ -1,0 +1,11 @@
+exception_name,count,origin
+ValueError,20,sys
+TypeError,11,sys
+AlreadyFinalized,11,usr
+InvalidToken,8,usr
+UnsupportedAlgorithm,4,usr
+SystemError,1,sys
+InvalidTag,1,usr
+NotYetFinalized,1,usr
+AlreadyUpdated,1,usr
+InvalidSignature,1,usr

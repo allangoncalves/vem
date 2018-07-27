@@ -1,0 +1,13 @@
+exception_name,count,origin
+ValueError,24,sys
+IOError,6,sys
+ImportError,6,sys
+Exception,3,sys
+AttributeError,2,sys
+KeyError,2,sys
+IndexError,2,sys
+HTTPError,1,lib
+RuntimeError,1,sys
+NotImplementedError,1,sys
+OSError,1,sys
+StopIteration,1,sys
